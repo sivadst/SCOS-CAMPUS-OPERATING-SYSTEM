@@ -1,3 +1,6 @@
+<!-- SCOS_JAVA_DEMO -->
+> **SCOS.java student experience:** open the [Java-inspired interactive demo](./index.html) or read the [demo and Vercel deployment guide](./README-DEMO.md). The Spring Boot / Java 21 backend remains in `src/`.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=300&section=header&text=Smart%20Campus%20OS&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Unified%20Platform%20for%20Intelligent%20Campus%20Management&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 </p>
