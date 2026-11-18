@@ -1,0 +1,10 @@
+# The Vercel project is the static student demo; keep the Java backend in the repository.
+src/
+target/
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
+Dockerfile
+docker-compose.yml
+postman/

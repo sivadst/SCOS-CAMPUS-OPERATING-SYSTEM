@@ -1,0 +1,21 @@
+# Build output
+out/
+target/
+build/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Logs & temp
+*.log
+todo.txt
+*.tmp
+
+# Node (tooling only, not part of the project)
+node_modules/
